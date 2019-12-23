@@ -23,11 +23,11 @@ Horretarako, oinarrizko pare bat helburutara aileagaten ahalegindu behar dogu:
 
 ## Hasiera
 
-Lehenengo pausuan ez dogu erabiliko RStudio, R online konpilatzeko aukerea eskaintzen daben web orrietan trebatuko gara [1], [2], [3] ... , ahalik eta erarik gordinean aztertu ahal izateko; azterketa horretatik oinarrizko ezaugarri eta elementuak identifikatzeko gai izan behar geunke.
+Lehenengo pausuan ez dogu erabiliko RStudio, R online konpilatzeko aukerea eskaintzen daben web orrietan trebatuko gara [lehenen honetan](https://rdrr.io/snippets/), eta gero hurrengoetan [*](https://www.tutorialspoint.com/execute_r_online.php), [** ](https://rextester.com/l/r_online_compiler) ... , ahalik eta erarik gordinean aztertu ahal izateko; azterketa horretatik oinarrizko ezaugarri eta elementuak identifikatzeko gai izan behar geunke.
 
 Trebatzeko: `##` sinboloen artean dauden testuak (zenbakiak, edo dana dalakoa) kopiatu eta konpilatu beharko dituzu web orri horretan.
 
-```
+```r
 ## 
 
 3
