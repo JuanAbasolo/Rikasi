@@ -25,9 +25,9 @@ Horretarako, oinarrizko pare bat helburutara aileagaten ahalegindu behar dogu:
 
 Lehenengo pausuan ez dogu erabiliko RStudio, R online konpilatzeko aukerea eskaintzen daben web orrietan trebatuko gara [1], [2], [3] ... , ahalik eta erarik gordinean aztertu ahal izateko; azterketa horretatik oinarrizko ezaugarri eta elementuak identifikatzeko gai izan behar geunke.
 
-`##` sinboloen artean dauden testuak (zenbakiak, edo dana dalakoa) kopiatu eta konpilatu beharko dituzu web orri horretan.
+Trebatzeko: `##` sinboloen artean dauden testuak (zenbakiak, edo dana dalakoa) kopiatu eta konpilatu beharko dituzu web orri horretan.
 
-```r
+```
 ## 
 
 3
