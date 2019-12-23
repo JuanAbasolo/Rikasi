@@ -1,11 +1,10 @@
 # Rn ikasteko mintegiko zenbait elementu hemen
 
-
 Baldintzak:
 
-* R instalauta
-* RStudio instalauta
-* Estatistikako jakinduria eskura (apunteak izan daitekez, jakina)
++ R instalauta
++ RStudio instalauta
++ Estatistikako jakinduria eskura (apunteak izan daitekez, jakina)
 
 ## Aurrekoak
 
@@ -13,14 +12,14 @@ Ikastaroa ez leuke izan beharko honek; baina, halan eta guztiz be, ikasi beharre
 
 Zeozenbat ordutan ekin eta gero, neuk uste dot:
 
-* danok datuak sartzeko bideren bat ezagutuko dogula
-* gure datuen araberako analisia egiten jakingo dogula
-* beste datu batzuakin edo/eta beste analisi batzuakin behar egiteko moduak ikertzen asmauko dogula
++ danok datuak sartzeko bideren bat ezagutuko dogula
++ gure datuen araberako analisia egiten jakingo dogula
++ beste datu batzuakin edo/eta beste analisi batzuakin behar egiteko moduak ikertzen asmauko dogula
 
 Horretarako, oinarrizko pare bat helburutara aileagaten ahalegindu behar dogu:
 
-* Rko sintaxia, funtzioen ezaugarriak eta elementuenak ezagutzea eta identifikatzea
-* RStudio interface aurreratuko oinarrizko hainbat erabilera
++ Rko sintaxia, funtzioen ezaugarriak eta elementuenak ezagutzea eta identifikatzea
++ RStudio interface aurreratuko oinarrizko hainbat erabilera
 
 ## Hasiera
 
@@ -28,7 +27,7 @@ Lehenengo pausuan ez dogu erabiliko RStudio, R online konpilatzeko aukerea eskai
 
 `##` sinboloen artean dauden testuak (zenbakiak, edo dana dalakoa) kopiatu eta konpilatu beharko dituzu web orri horretan.
 
-```
+```r
 ## 
 
 3
