@@ -321,7 +321,7 @@ Beste modu posible bat hau litzateke:
 zure.data.frame[ , 'aldagai.berria'] <- datuak
 ```
 
-3. Ea sortu ahal duzun `zure.data.frame[`lerro.berria`, ]`
+3. Ea sortu ahal duzun `zure.data.frame["lerro.berria", ]`
 
 
 
