@@ -328,6 +328,6 @@ zure.data.frame[ , 'aldagai.berria'] <- datuak
 
 Mendoza Vega, J. B. (2018). R para principiantes. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
 
-Paradis, E. (2005). R for beginners^[Erderaz be itzulita dago]. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+Paradis, E. (2005). R for beginners[^1]. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 
-
+[^1]: Erderaz be itzulita dago
