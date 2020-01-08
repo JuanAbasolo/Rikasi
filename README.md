@@ -51,12 +51,12 @@ Eta `3+2+3+4` esanda zer esan dau?
 
 Aztertu deikegu oinarrizko aritmetikan gehitxuago ere:
 
-+ Gehiketa +
-+ Kenketa -
-+ Biderketa *
-+ Zatiketa /
-+ Zatiketa integrala (?) %%
-+ Berreketa ^2, edo dana dalako zenbakia
++ Gehiketa `+`
++ Kenketa `-`
++ Biderketa `*`
++ Zatiketa `/`
++ Zatiketa integrala (?) `%%`
++ Berreketa `^2`, edo dana dalako zenbakia
 
 
 #### Aldagaiak
@@ -79,7 +79,7 @@ danok.sum <- nagusia+txikia+ama+aita
 danok.sum
 ```
 
-Objektuak sortu doguz, aldagaiak (`variable`). Operazinoik be egin doguz eurok erabilita.
+Objektuak sortu doguz, aldagaiak (`variable()`). Operazinoik be egin doguz eurok erabilita.
 
 Segidan, beste era bateko objektua sortuko dogu, bektorea `vector()`
 
@@ -204,10 +204,10 @@ Igarriko zenduanez, horko objektu guztiak laukoak dira (`[1:4]` agertzen da `str
 **Data frame**a
 
 ```
-df.gabonak <- data.frame(olentzerori,
-                         olentzerok,
-                         zenbat.pizza,
-                         zenbat.turroi,
+df.gabonak <- data.frame(olentzerori.idatzi = olentzerori,
+                         olentzerok.ezer.ekarri = olentzerok,
+                         zenbat.pizza = zenbat.pizza,
+                         zenbat.turroi = zenbat.turroi,
                          row.names = nortzuk
                          )
 df.gabonak
@@ -216,6 +216,8 @@ str(df.gabonak)
 summary(df.gabonak)
 plot(df.gabonak$zenbat.pizza, zenbat.turroi)
 ```
+
+Begitu honeri: ez da sortu `row.names` izeneko aldagairik, berez, data frameak sortzeko funtzioaren barruko barne funtzio bat dagoalako.
 
 **_Data frame_**a normalean *datu matriza* esaten deutsaguna da. R-n `matrix` elementu jakin bat danez, ingeleseko forma erabilten da euskeraz, gaztelaniaz, frantsesez eta italianoz. 
 
@@ -318,16 +320,16 @@ Dokumentatu pausuak eta arazoak.
 Beste modu posible bat hau litzateke:
 
 ```r
-zure.data.frame[ , 'aldagai.berria'] <- datuak
+zure.data.frame[ , 'aldagai.barria'] <- datuak
 ```
 
-3. Ea sortu ahal duzun `zure.data.frame["lerro.berria", ]`
+3. Ea sortu ahal duzun `zure.data.frame["lerro.barria", ]`
 
 
 ## Bibliografia
 
 Mendoza Vega, J. B. (2018). R para principiantes. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
 
-Paradis, E. (2005). R for beginners[^1]. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+Paradis, E. (2005). R for beginners. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 
-[^1]: Erderaz be itzulita dago
+Bigarrena erderaz be itzulita dago
