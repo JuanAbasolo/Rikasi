@@ -54,3 +54,8 @@ Era bateko objektuei eragin ahal zaie beste era batekoak izatea, hobeto lantzeko
 + `unclass()`, `unname()`... 
 +  `as.factor()`, `as.data.frame()`...
 
+## Balio bereziak -------------------
+c(-1, 0, 1) / 2
+
+c(-1, 0, 1) / 0
+

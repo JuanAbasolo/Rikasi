@@ -324,4 +324,10 @@ zure.data.frame[ , 'aldagai.berria'] <- datuak
 3. Ea sortu ahal duzun `zure.data.frame["lerro.berria", ]`
 
 
+## Bibliografia
+
+Mendoza Vega, J. B. (2018). R para principiantes. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
+
+Paradis, E. (2005). R for beginners^[Erderaz be itzulita dago]. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+
 
