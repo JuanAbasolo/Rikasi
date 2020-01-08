@@ -27,7 +27,7 @@ Lehenengo pausuan ez dogu erabiliko RStudio, R online konpilatzeko aukerea eskai
 
 Trebatzeko: `##` sinboloen artean dauden testuak (zenbakiak, edo dana dalakoa) kopiatu eta konpilatu beharko dituzu web orri horretan.
 
-```r
+```
 ## 
 
 3
