@@ -325,11 +325,16 @@ zure.data.frame[ , 'aldagai.barria'] <- datuak
 
 3. Ea sortu ahal duzun `zure.data.frame["lerro.barria", ]`
 
+---
+
+Egindako guztia fitxategi batean gordetzeko `savehistory(file='nahidozunizena.Rhistory')`. 
+Ez dakit zurean non gordeko dauan baina! Helbidea aurretik idatzita, aukeratu dezakezu gordetzeko tokia.
+
 
 ## Bibliografia
 
-Mendoza Vega, J. B. (2018). R para principiantes. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
+Mendoza Vega, J. B. (2018). *R para principiantes*. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
 
-Paradis, E. (2005). R for beginners. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+Paradis, E. (2005). *R for beginners*. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 
-Bigarrena erderaz be itzulita dago
+Bigarrena erderaz be itzulita dago.
