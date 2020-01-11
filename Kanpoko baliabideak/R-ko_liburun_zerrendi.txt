@@ -1,0 +1,685 @@
+.:
+Aldagaiak tratateko
+Clave estadistica.cmap.jpeg
+Desition tree
+DT garbiketa
+Grafikuak
+Ikastaroak
+Kateak - string
+knitr
+Linguistika eta R
+Orokorrak
+Packages
+Packages-sortu
+Power
+RandomForest
+R cheatsheet
+Reglas de asociación
+Regression Models
+R-ko_liburun_zerrendi.txt
+RLiburuk
+R Studio
+Statistiques_avec_R.tar.gz
+
+./Aldagaiak tratateko:
+FEIR 10_ Entorno de trabajo R. RStudio.html
+Manejo de datos en R.html
+questionr.pdf
+
+./Desition tree:
+An Introduction to Recursive Partitioning Using RPART Routines[R].pdf
+teim_sesion_13b[R].pdf
+teim_sesion_14b[R].pdf
+
+./DT garbiketa:
+de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+
+./Grafikuak:
+ColorChart.pdf
+Comprehensive-Guide-to-Data-Visualization-in-R-FINAL-1[R].jpg
+diagram-R diagram[paper R].pdf
+FEIR 60_ Taller de Graficos[R].html
+ggplot
+guide-data-visualization-r[R]
+Koloreak
+lattice-BonusChapter-23[chapter R].pdf
+Oinarriak
+
+./Grafikuak/ggplot:
+Alonso&Gonzalez-2012-Ggplot_ graficos de alta calidad.pdf
+Barrios-2010-Una implementación de la gramática de las gráficas en R.pdf
+Girke-2013-Graphics and Data Visualization in R.pdf
+gplots-venn_with_gplots.pdf
+intro_ggplot2.pptx
+Malone-2015-Advanced DataVisualization in R.pdf
+qplot.pdf
+SanDiego R Users-2013-Datavisualization intro_ggplot.pdf
+Sorribas-2013-Introduccion al analisis grafico con ggplot2.pdf
+
+./Grafikuak/Koloreak:
+colorbrewer[R].png
+ColorChart.pdf
+colorPaletteCheatsheet.pdf
+Colors-LaTeX.pdf
+Rcolor.pdf
+UsingColorInR.pdf
+
+./Grafikuak/Oinarriak:
+2_CursoR_Graficos[spa slides R].pdf
+Murell-2011-Rgraphics[slides R].pdf
+Murell--Rgraphics[slides R].pdf
+
+./Ikastaroak:
+[Ikastaroa] Introduccion a la programación estadistica con R
+OnePageR
+RBootcamp
+R UEUn I
+
+./Ikastaroak/[Ikastaroa] Introduccion a la programación estadistica con R:
+0_Hasiera__instalación_herramientas_eta_bibliog_.html
+0 Hasiera (instalación herramientas eta bibliog).Rmd
+Hasteko.R
+Ikastaru_PDFn.pdf
+Ikastaru PDFn.Rmd
+Introduccion a la programación estadistica con R.Rproj
+Liburuak
+programacion-estadistica-r-master.zip
+swirl_temp
+
+./Ikastaroak/[Ikastaroa] Introduccion a la programación estadistica con R/Liburuak:
+Adler-2009-R_in_a_Nutshell.pdf
+Chang-2012-R Graphics Cookbook.pdf
+Dalgaard-2008-Introductory_Statistics_with_R__2nd_ed.pdf
+Matloff-2011-The Art of R Programming A Tour of Statistical Software Design.pdf
+Teetor-2011-R Cookbook.pdf
+
+./Ikastaroak/[Ikastaroa] Introduccion a la programación estadistica con R/swirl_temp:
+ASA_estadisticasPasajeros(3).csv
+datos_inmigrates.RData
+datos.txt
+distributions.txt
+inmigintnalpry.csv
+
+./Ikastaroak/OnePageR:
+001
+002
+003
+004
+005
+006
+007
+
+./Ikastaroak/OnePageR/001:
+CaseStudiesO[R].pdf
+CaseStudiesO[R].r
+ClustersL[R].pdf
+DataMiningL[R].pdf
+DataO[R].pdf
+DataO[R].r
+DataScienceL[R].pdf
+DataScienceO[R].pdf
+DataScienceO[R].r
+KnitRO[R].pdf
+KnitRO[R].r
+ModelsO[R].pdf
+ModelsO[R].r
+OnePager_Part001[R].jpg
+RattleO[R].pdf
+RattleO[R].r
+
+./Ikastaroak/OnePageR/002:
+BasicRO.pdf
+BasicRO.R
+OnePager_Part002.jpg
+StyleO.pdf
+StyleO.R
+
+./Ikastaroak/OnePageR/003:
+GGPlot2O.pdf
+GGPlot2O.R
+OnePager_Part003.jpg
+ReadO(1).pdf
+ReadO.pdf
+ReadO.R
+SummaryO.pdf
+SummaryO.R
+TransformO.pdf
+TransformO.R
+
+./Ikastaroak/OnePageR/004:
+ARulesL.pdf
+ARulesO.pdf
+ARulesO.R
+ClustersL.pdf
+ClustersO.pdf
+ClustersO.R
+OnePager_Part004.jpg
+
+./Ikastaroak/OnePageR/005:
+BayesO.pdf
+BayesO.R
+DTreesG.pdf
+DTreesO.pdf
+DTreesO.R
+EnsemblesL.pdf
+EnsemblesO.pdf
+EnsemblesO.R
+EvaluateO.pdf
+EvaluateO.R
+MarsO.pdf
+MarsO.R
+OnePager_Part005.jpg
+
+./Ikastaroak/OnePageR/006:
+corpus.tar.gz
+OnePager_Part006.jpg
+TextMiningO.pdf
+TextMiningO.R
+
+./Ikastaroak/OnePageR/007:
+BigDataO.pdf
+BigDataO.R
+DateTimeO.pdf
+DateTimeO.R
+EnvironmentsO.R
+FunctionsO.pdf
+FunctionsO.R
+MapsO.R
+OnePager_Part007.jpg
+ParallelO.pdf
+ParallelO.R
+PlotsO.pdf
+PlotsO.R
+StringsO.pdf
+StringsO.R
+
+./Ikastaroak/RBootcamp:
+bootcamp.zip
+data
+handouts
+scripts
+slides
+
+./Ikastaroak/RBootcamp/data:
+midwest_district_probability.csv
+midwest_schools.rda
+smalldata.csv
+smalldata.rda
+Student_Attributes.rda
+
+./Ikastaroak/RBootcamp/handouts:
+settingupR_handout.html
+Tutorial0_handout.html
+Tutorial1_handout.html
+Tutorial2_handout.html
+Tutorial3_handout.html
+Tutorial4_handout.html
+Tutorial5_handout.html
+Tutorial6_handout.html
+Tutorial7_handout.html
+Tutorial8_handout.html
+TutorialX_handout.html
+
+./Ikastaroak/RBootcamp/scripts:
+settingupR.R
+Tutorial0.R
+Tutorial1.R
+Tutorial2.R
+Tutorial3.R
+Tutorial4.R
+Tutorial5.R
+Tutorial6.R
+Tutorial7.R
+Tutorial8.R
+TutorialX.R
+
+./Ikastaroak/RBootcamp/slides:
+RsetupforBootcamp.html
+Tutorial0_Overview.html
+Tutorial1_Intro.html
+Tutorial2_DataImport.html
+Tutorial3_DataSort.html
+Tutorial4_CleaningData.html
+Tutorial5_BasicAnalytics.html
+Tutorial6_Visualization.html
+Tutorial7_ExportingWork.html
+Tutorial8_AdvancedTopics.html
+TutorialX_StatisticsRefresher.html
+TutorialXX_IntroToProgramming.html
+
+./Ikastaroak/R UEUn I:
+1_gaia
+2_gaia
+3_gaia
+4_gaia
+5_gaia
+6_gaia-Proiektua
+Crawley-2007-TheRBook.pdf
+Numerical Ecology with R (use R).pdf
+R UEUn I.Rproj
+
+./Ikastaroak/R UEUn I/1_gaia:
+161001_Atsaldia-01.pdf
+161001_Atsaldia-01.R
+161001_Goxa-01.pdf
+161001_Goxa-01.R
+161001_Goxa-02.pdf
+161001_Goxa-02.R
+datubaseak
+DoubsEnv.csv
+DoubsSpe.csv
+LMSinplifikatua.xlsx
+Rplots.pdf
+
+./Ikastaroak/R UEUn I/1_gaia/datubaseak:
+Doubs.deskribapena.rtf
+DoubsEnv.csv
+DoubsSpe.csv
+
+./Ikastaroak/R UEUn I/2_gaia:
+2-1_Ariketa_aurkeztu.pdf
+2-1_Ariketa_aurkeztu.Rmd
+2-1-AriketaErakusteko.pdf
+2-1-AriketaErakusteko.R
+2.1._ariketa__Eredu_linearrari_buruzko_ariketa.pdf
+2.1. ariketa_ Eredu linearrari buruzko ariketa.R
+2-2-Ariketa_1zalantza_errezidualen_azterketa_bisuala.pdf
+2-2-Ariketa_1zalantza errezidualen azterketa bisuala.R
+datubaseak2
+R_2gaia.pdf
+zuzenketa_Juan Abasolo.pdf
+
+./Ikastaroak/R UEUn I/2_gaia/datubaseak2:
+competition.txt
+daphnia.txt
+eukal.csv
+growth.txt
+Ibaizabal2014-16.csv
+logplots.txt
+productivity.txt
+
+./Ikastaroak/R UEUn I/3_gaia:
+3gaia_nirik.html
+3gaia_nirik.Rmd
+Abasolo_3-gaiko_Ariketa.html
+Abasolo_3-gaiko_Ariketa.Rmd
+Ariketa
+datubaseak2
+R_3gaia.pdf
+Rplot.jpeg
+zuzenketa_Juan Abasolo.pdf
+
+./Ikastaroak/R UEUn I/3_gaia/datubaseak2:
+competition.txt
+daphnia.txt
+eukal.csv
+growth.txt
+Ibaizabal2014-16.csv
+logplots.txt
+productivity.txt
+
+./Ikastaroak/R UEUn I/4_gaia:
+4_ariketa_JuanAbasolo_files
+4_ariketa_JuanAbasolo.R
+4_gaia_files
+4_gaia.pdf
+4_gaia.R
+Ariketi_files
+Ariketi.pdf
+Ariketi.R
+datubaseak
+datubaseak_4eta5gaiak.tar.gz
+panelutils.R
+R_4gaia.pdf
+Rplot.jpeg
+zuzenketa_Juan_Abasolo.docx
+
+./Ikastaroak/R UEUn I/4_gaia/4_ariketa_JuanAbasolo_files:
+figure-html
+figure-latex
+
+./Ikastaroak/R UEUn I/4_gaia/4_ariketa_JuanAbasolo_files/figure-html:
+unnamed-chunk-8-1.png
+unnamed-chunk-8-2.png
+unnamed-chunk-8-3.png
+unnamed-chunk-8-4.png
+unnamed-chunk-8-5.png
+unnamed-chunk-8-6.png
+unnamed-chunk-8-7.png
+
+./Ikastaroak/R UEUn I/4_gaia/4_ariketa_JuanAbasolo_files/figure-latex:
+unnamed-chunk-8-1.pdf
+unnamed-chunk-8-2.pdf
+unnamed-chunk-8-3.pdf
+unnamed-chunk-8-4.pdf
+unnamed-chunk-8-5.pdf
+unnamed-chunk-8-6.pdf
+unnamed-chunk-8-7.pdf
+
+./Ikastaroak/R UEUn I/4_gaia/4_gaia_files:
+figure-latex
+
+./Ikastaroak/R UEUn I/4_gaia/4_gaia_files/figure-latex:
+unnamed-chunk-13-1.pdf
+unnamed-chunk-13-2.pdf
+unnamed-chunk-13-3.pdf
+unnamed-chunk-13-4.pdf
+unnamed-chunk-13-5.pdf
+unnamed-chunk-13-6.pdf
+unnamed-chunk-13-7.pdf
+unnamed-chunk-5-1.pdf
+unnamed-chunk-5-2.pdf
+
+./Ikastaroak/R UEUn I/4_gaia/Ariketi_files:
+figure-latex
+
+./Ikastaroak/R UEUn I/4_gaia/Ariketi_files/figure-latex:
+unnamed-chunk-8-1.pdf
+unnamed-chunk-8-2.pdf
+unnamed-chunk-8-3.pdf
+unnamed-chunk-8-4.pdf
+unnamed-chunk-8-5.pdf
+unnamed-chunk-8-6.pdf
+unnamed-chunk-8-7.pdf
+
+./Ikastaroak/R UEUn I/4_gaia/datubaseak:
+Argentina.txt
+Doubs.deskribapena.rtf
+DoubsEnv.csv
+DoubsSpe.csv
+
+./Ikastaroak/R UEUn I/5_gaia:
+5_gaia.html
+5_gaia.Rmd
+DoubsEnv.csv
+DoubsSpe.csv
+R_5gaia.pdf
+
+./Ikastaroak/R UEUn I/6_gaia-Proiektua:
+6__gaia.html
+6_ gaia.Rmd
+db
+proiektua_kodea.R
+Proiektua.pdf
+
+./Ikastaroak/R UEUn I/6_gaia-Proiektua/db:
+mite_env.txt
+mite.txt
+
+./Kateak - string:
+R-Manejo de cadenas y expresiones regulares[paper].pdf
+strings.pdf
+
+./knitr:
+1498716962 {9908D6E4} Dynamic Documents with R and knitr (2nd ed.) [Xie 2015-07-06].pdf
+DDR-Yihui-Xie-Chap1-3.pdf
+knitr-graphics.pdf
+knitr_handout.pdf
+knitr-manual.pdf
+Yihui-2013-Dynamic Graphics and Reporting for Statistics.pdf
+yihui2.pdf
+
+./Linguistika eta R:
+3110307286 {A4CCA315} Statistics for Linguistics with R_ A Practical Introduction (2nd ed.) [Gries 2013-03-15].pdf
+3319031635 {34A15DD9} Text Analysis with R for Students of Literature [Jockers 2014-06-11].pdf
+Baayen-2008-Analyzing Linguistic Data_ A Practical Introduction to Statistics using R.pdf
+Course on R for linguists_ part 2.pdf
+Gries-2013-StatForLingWithR
+Gries-2013-Statistics for Linguistics with R.pdf
+Larson-Hall-2010-A Guide to Doing Statistics in Second Language Reasearch Using R_answers.pdf
+Larson-Hall-2010-A Guide to Doing Statistics in Second Language Reasearch Using R.pdf
+Larson-Hall-2010-A guide to doing statitics with SPSS in second language research.pdf
+Zinsmeister-2010-Corpus Linguistics Some statistics in R.pdf
+
+./Linguistika eta R/Gries-2013-StatForLingWithR:
+_inputfiles
+_outputfiles
+_scripts
+sflwr2_navigator.png
+
+./Linguistika eta R/Gries-2013-StatForLingWithR/_inputfiles:
+01-5_ExperimentalDesign.ods
+02-3-2_vector1.txt
+02-3-2_vector2.txt
+02-5-2_dataframe1.csv
+02-5-3_dataframe.csv
+02-7_dataframe1.csv
+02_exercises_dataframe1.csv
+02_exercises_dataframe4.csv
+02_exercises_vector1.txt
+03-1_uh(m).csv
+03-2-3_anscombe.csv
+03-2-3_reactiontimes.csv
+03-2_uh(m).csv
+03_english_exercises.ods
+03_english.ods
+03_exercises.csv
+04-1-1-1_tense-aspect.csv
+04-1-1-2_vpcs.csv
+04-1-2-1_hedges.csv
+04-1-2-2_vpcs.csv
+04-1-2-3_accjudg.csv
+04-2-1_tense-aspect.csv
+04-2-2_synonymtimes.csv
+04-3-1-1_hedges.csv
+04-3-1-2_dices.csv
+04-3-2-1_f1-freq.csv
+04-3-2-2_textlengths.csv
+04-3-2-3_dices.csv
+04-3-2-4_sortingstyles.csv
+04-4_reactiontimes.csv
+04_english_exercises.ods
+04_english.ods
+04_exercises_01-09.csv
+04_exercises_11.csv
+04_exercises_12.csv
+04_exercises_13.csv
+04_exercises_14.csv
+05-2_reactiontimes.csv
+05-3_clauseorders.csv
+05-4-1_assignments.csv
+05-4-2_assignment.csv
+05-4-3_disfluencies.csv
+05-5-1_textlengths.csv
+05-5-2_synonyms.csv
+05-5-3_mistakes.csv
+05-5-4_textlengths.csv
+05-6_collocates.csv
+05-6_collocates.RData
+05_english_exercises.ods
+05_english.ods
+05_exercises_01.csv
+05_exercises_02.csv
+05_exercises_03a.csv
+05_exercises_03b.csv
+05_exercises_04.csv
+05_exercises_05.csv
+05_exercises_06.csv
+05_exercises_07.csv
+05_exercises_08.csv
+05_exercises_09.csv
+05_exercises_10a_try_to-and.csv
+05_exercises_10b_try_to-and.csv
+05_exercises_11.csv
+
+./Linguistika eta R/Gries-2013-StatForLingWithR/_outputfiles:
+02-3-2_vector3.txt
+02-4-2_factor1.txt
+02-4-2_factor2.txt
+02-5-2_dataframe2.csv
+02-5-2_dataframe3.csv
+02_exercises_dataframe2.csv
+02_exercises_dataframe3.csv
+02_exercises_dataframe5.csv
+02_exercises_vector2.txt
+02_exercises_vector3.txt
+03-1-1-1_scatterplot.png
+
+./Linguistika eta R/Gries-2013-StatForLingWithR/_scripts:
+01-02-03-04-05_allcode.r
+01-02-03-04-05_allexercises_answerkey.r
+01-02-03-04-05_allexercises.r
+
+./Orokorrak:
+Advances in Social Science Research using R [Vinod 2010-01-12].pdf
+Banaka
+Hasieran
+Paradis-2003-R para principiantes.pdf
+Prácticas de Estadística en R Ingeniería Técnica en Informática de Sistemas.pdf
+Rattle
+Rcmdr
+R_DevelCoreTeam-2000-Introduccion a R.pdf
+
+./Orokorrak/Banaka:
+0_0_Bibliografía_estadística_y_programación_en_R.pdf
+12_T-test.pdf
+15_Inferencia_para_variables_categóricas__proporciones__Intervalos_de_confianza_y_test_de_hípotesis.pdf
+17_Wilcoxon-Mann-Whitney test como alternativa al t-test.pdf
+18_Prueba_de_los_rangos_con_signo_de_Wilcoxon__comparar_medianas__alternativa_no_param__trica_a_t-test_dependiente.pdf
+22.1_Test_estadísticos_para_variables_cualitativas_Test_binomial_exacto,_test_multinomial_y_test_chi-cuadrado_goodnes_of_fit.pdf
+22.2_Test_estadísticos_para_variables_cualitativas_test_exacto_de_fisher,_chi-cuadrado_de_Pearson,_McNemar_QCochran.pdf
+24_Correlación_y_Regresión_lineal.pdf
+8_Análisis_de__Normalidad_gráficos_y_contrastes_de_hipótesis.pdf
+9_Analisis_de_la_homogeneidad_de_varianza__homocedasticidad_.pdf
+
+./Orokorrak/Hasieran:
+Carleo-2009-Curso de iniciacion al paquete estadistico R.pdf
+Carleos-2009-Instalacion_R.pdf
+Curso basico de R-bn.pdf
+Merino--Estatistika-R-praktikak[book eus].pdf
+
+./Orokorrak/Rattle:
+Data Mining With Rattle and R_ The Art of Excavating Data for Knowledge Discovery - Graham Williams.pdf
+Minería de datos con eL paquete rattle - tutorial.pdf
+rattle.pdf
+RJournal_2009-2_Williams.pdf
+
+./Orokorrak/Rcmdr:
+Chicana-Introduccion_al_uso_de_R.pdf
+Comenzando_DescriptivaUnidim_RCommander.pdf
+ebrcmdr.pdf
+estatistika-r-praktikak.pdf
+Est_desc_R.pdf
+kabacoff-R_in_action-2011.pdf
+Karp-Rcommander-intro.pdf
+Manual R commander.pdf
+Risk-Cartas-sobre-Estadistica.pdf
+RKWard: A Comprehensive Graphical User Interface.pdf
+R_Rcmdr_Psi_Edu.pdf
+Saez-Castillo-RRCmdrv21.pdf
+
+./Packages:
+kableExtra_awesome_table_in_pdf.pdf
+papaja_example.pdf
+Psych
+pwr.pdf
+pwr-vignette.html
+pwr-vignette.Rmd
+rkTeaching_tutorial.pdf
+vcd-Friendly-Working with categorical data with R and the vcd and vcdExtra packages.pdf-
+vembedr.pdf
+xtable-Gallery.pdf
+
+./Packages/Psych:
+intro.pdf
+overview.pdf
+psych_for_sem.pdf
+
+./Packages-sortu:
+Projects_as_Packages.pdf
+
+./Power:
+Blomberg-2014-Power Analysis Using R.pdf
+Cardenas&Arancibia-2014-Potencia estadística y calculo del tamaño del efecto.pdf
+JÓDAR-2010-APORTACIONES DEL SOFTWARE LIBRE «R» AL PROCESO DE INVESTIGACIÓN PSICOLÓGICA.pdf
+Poder_do_Teste_no_R.pdf
+Using R for Power Analysis.pdf
+
+./RandomForest:
+ggRandomForests_ Exploring Random Forest Survival.pdf
+ggRandomForests.pdf
+Jiang-2007-Selective Integration of Linguistic Knowledge in SLA.pdf
+Memoria.pdf
+randomforest.pdf
+
+./R cheatsheet:
+advancedR[R].pdf
+base-r[R].pdf
+dplyr_data-transformation[R].pdf
+dplyr_tidyr_data-wrangling-spanish[R].pdf
+eurostat[R].pdf
+ggplot2-spanish[R].pdf
+ggplot_data-visualization-2.1[R].pdf
+how-big-is-your-graph[R].pdf
+keras[R].pdf
+latexsheet-a4[R].pdf
+mosaic[R].pdf
+purrr[R].pdf
+quanteda[R].pdf
+RegExCheatsheet[R].pdf
+RMarkdown
+rmarkdown-2.0[R].pdf
+rmarkdown-cheatsheet-2.0[R].pdf
+rmarkdown-spanish[R].pdf
+rstudio-IDE-cheatsheet[R].pdf
+Symbols[LaTeX].pdf
+syntax[R].pdf
+YanchangZhao-refcard-data-mining[R].pdf
+
+./R cheatsheet/RMarkdown:
+markdown-cheatsheet-online.pdf
+rmarkdown-cheatsheet-2.0.pdf
+rmarkdown-reference.pdf
+usandoMarkdown.pdf
+
+./Reglas de asociación:
+Reglas de asociación.R
+Reglas de asociación.Rproj
+Rplot01.png
+Rplot02.png
+Rplot03.png
+Rplot.png
+
+./Regression Models:
+Beaujean-Morgan-2016-Tutorial on Using Regression Models with Count Outcomes using R.pdf
+Regresion logistica
+
+./Regression Models/Regresion logistica:
+FEIR 40 Modelos de Regresión.html
+regresion_logistica_con_R.pdf
+
+./RLiburuk:
+Alboukadel Kassambara [Kassambara, Alboukadel]-Practical Guide To Principal Component Methods in R (Multivariate Analysis Book 2) (2017).epub
+Alboukadel Kassambara-Multivariate Analysis II Practical Guide to Principal Component Methods in R.pdf
+analysis_ecological_data_ws17_18.pdf
+Andrew Gelman, Jennifer Hill - Data Analysis Using Regression and Multilevel_Hierarchical Models (2007, Cambridge University Press)[book R].pdf
+blogdown.epub
+bookdown.epub
+bookdown.pdf
+Charte-2014-ExploraVisualizaCon R[book].pdf
+circlize-book.epub
+Correa et al-2002-Graﬁcos Estadısticos con R[book R].pdf
+Gohil-2015-R Data Visualization Cookbook[book R].pdf
+Hadley Wickham-R Packages-O'Reilly Media (2015).epub
+HandbookBioStatThird.pdf
+Kassambara-2017-Practical Guide to Cluster Analysis in R. Unsupervised Machine Learning-STHDA.pdf
+Keen-2010-Graphics for Statistics and Data Analysis with R[book R].pdf
+Kloke & McKean-2014-Nonparametric Statistical Methods using R[book].pdf
+layered-grammar.pdf
+Lillis-2014-R Graph Essentials[book R].pdf
+Martlof-2009-The Art of R Programming.pdf
+McGrath-2018-R for Data Analysis in easy steps_ R Programming Essentials-In Easy Steps Limited.epub
+Murrell-2006-R Graphics[book R].pdf
+[Quantitative Methods in the Humanities and Social Sciences] Matthew L. Jockers (auth.) - Text Analysis with R for Students of Literature (2014, Springer International Publishing).pdf
+RCommander_WEB.pdf
+RiA2_SourceCode.zip
+R programing and Data Visualization[book].pdf
+Sanchez-2014-Handling_and_Processing_Strings_in_R.pdf
+Santana_El_arte_de_programar_en_R[book].pdf
+Stefan Th. Gries-Quantitative Corpus Linguistics with R_ A Practical Introduction-Routledge (2009).pdf
+(Use R!) Deepayan Sarkar (auth.)-Lattice_ Multivariate Data Visualization with R-Springer-Verlag New York (2008).pdf
+(Use R) Hadley Wickham (auth.)-ggplot2_ Elegant Graphics for Data Analysis-Springer-Verlag New York (2009).pdf
+YaRrr.pdf
+
+./R Studio:
+1. Primer contacto con R y RStudio. 1. 2. Variables y vectores. 9. 4. Estadística descriptiva de una variable cuantitativa, con datos no agrupados..pdf
