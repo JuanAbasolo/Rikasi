@@ -62,10 +62,13 @@ c(-1, 0, 1) / 0
 
 
 
-## Bibliografia
+## Bibliografiea-ta
 
 Mendoza Vega, J. B. (2018). *R para principiantes*. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
 
 Paradis, E. (2005). *R for beginners*. E. Paradis. http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 
-Bigarrena erderaz be itzulita dago.
+R Core Team. (2018). *R: A Language and Environment for Statistical Computing*. R Foundation for Statistical Computing. https://www.R-project.org/
+
+RStudio Team. (2019). *RStudio: Integrated Development Environment for R*. RStudio, Inc. http://www.rstudio.com/
+

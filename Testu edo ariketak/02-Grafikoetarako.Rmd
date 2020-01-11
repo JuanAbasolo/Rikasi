@@ -1,0 +1,245 @@
+---
+title: "02-Grafikoetarako"
+output: html_notebook
+---
+
+# Grafikoen inguruko kontutxu batzuk
+
+Egin lei asko eta asko, guk honetan minimoetan oinarritu behar dugu.
+
+Grafikoak sortzeko, `plot()` agindua erabilten da; esate baterako, lerro bat dugu 1etik 24era doana `1:10`
+  
+```{r}
+## Honek balioak sortzen ditu
+1:24
+
+## Honek balio horien irudia sortzen dau
+plot(1:24)
+```
+
+Hor ikusten doguz 1ean hasi eta 24an amaitzen diren puntuak. *x* ardatzak dinosku 1 balioa 1.a dala, 2 balioa 2.a eta abar.
+
+```{r}
+plot((1:24)^3,
+     ylab = 'y ardatzeko azalpena: (1:24)^3',
+     xlab = 'x ardatzak irudikatzen dau zenbatgarrena dan puntu bakotxa',
+     main = 'Lengo datuak, baina ber bi',
+     sub = '"index" dinoan ardatza bardina da, baina y ardatzak n ber 2 irudikatzen dau')
+```
+
+## Motak
+
+```{r}
+par(mfrow = c(3, 3))
+plot(1:25, type = 'p')
+plot(1:25, type = 'l')
+plot(1:25, type = 'b')
+plot(1:25, type = 'c')
+plot(1:25, type = 'o')
+plot(1:25, type = 's')
+plot(1:25, type = 'S')
+plot(1:25, type = 'h')
+plot(1:25, type = 'n')
+```
+
+## Markatzaileak
+
+```{r}
+plot(1:25,
+     pch = 1:25)
+```
+
+Hurrengo aldaketak hobeto erakusteko, by default dakarrena baino nahiago dot beste sinbolo bat (biribil bete handia... 20.a dala emoten dauana... ia dan)
+
+```{r}
+plot(1:25,
+     pch = 1:25)
+abline(v = 20)
+```
+
+Punteria hobetu behar!
+
+## Koloreak, `col = ` aukera
+
+### Oinarrizkoak
+
+```{r}
+plot(1:25,
+     pch = 19,
+     col = 1:25)
+```
+
+Ematen du 8tan errepikatu egiten dala, ia:
+
+```{r}
+plot(1:25,
+     pch = 19,
+     col = 1:25)
+abline(v = c(1, 1+8, 1+8*2, 1+8*3))
+```
+
+**Ariketa**
+
+Punteria egin behar duzu eta aurreko plot horretan hiru lerrok eman behar die hiru biribili **beren koloreaz**
+
+### Beste batzuk
+
+Koloreen izenak ezagutu ezkero, halan deitu ahal jake:
+
+```{r}
+plot(1:25,
+     pch = 19,
+     col = c('red',
+             'darkred'))
+```
+
+
+```{r}
+par(mfrow = c(1, 2))
+plot(1:25,
+     pch = 19,
+     col = rainbow(25))
+plot(1:25,
+     pch = 19,
+     col = heat.colors(25))
+par(mfrow = c(1, 1))
+```
+
+Badira beste batzuk:
+
++ `topo.colors`
++ `grey.colors`
++ Eremuka, norberak sortutakoak, gurdikada bat paleta...
+
+## Tamainak
+
+Honetarako biribil huts estandarra
+
+```{r}
+plot(1:25,
+     cex = 0.5:25)
+```
+
+
+
+
+
+# Gehitu zerbait
+
+## Lerroak
+
+Dagoaneko gehitu doguz batzuk, bakarrik *vertikalak* baina; `v` eman dogu-eta.
+
+```{r}
+plot(1:25)
+abline(v = 20)
+abline(h = 20)
+abline(a = 5, b = 1)
+```
+
+### Lodiera
+
+```{r}
+## Marrak
+plot(1:8, type = 'n')
+abline(v = 1:8,
+       lwd = 1:8)
+```
+
+### Motak
+
+Lodiera handixeagoa hobeto ikusteko
+
+```{r}
+## Marrak
+plot(1:6, type = 'n')
+abline(v = 1:6, lwd = 3,
+       lty = 1:6)
+```
+
+## Segmentuak
+
+```{r}
+plot(1:8)
+lines(x = c(1, 2))
+lines(x = c(1, 2), y = c(2, 3), col = 'red')
+lines(x = c(2.1, 2.9), y = c(3, 4), col = 'darkblue')
+lines(x = c(3.15, 3.8), y = c(4, 5), col = 'darkred')
+lines(x = c(4.20, 4.75), y = c(5, 6), col = 'blue')
+```
+
+# Textua
+
+```{r}
+plot(1:8, pch = 3)
+text(x = 1:8+0.4, letters[1:8])
+```
+
+
+# Beste grafiko mota batzuk
+
+## Pie
+
+Dinoe hoba dala ez erabitzea, baina ondo etorri ahal zaigu zerbait ulertzeko bat edo batean
+
+```{r}
+pie(1:8, col = 1:8)
+```
+
+## Barra diagrama
+
+```{r}
+barplot(1:8)
+```
+
+## Histogramea
+
+```{r}
+hist((1:25)^2)
+```
+
+
+## Kaxa grafikoa
+
+```{r}
+boxplot(1:8)
+```
+
+## Mosaiko grafikoa
+
+```{r}
+mosaicplot(1:8)
+```
+
+
+## Puntu diagrama
+
+```{r}
+dotchart(1:8, labels = LETTERS[8:1])
+```
+
+
+## Dentsitatea
+
+```{r}
+plot(density(1:8))
+```
+
+Dentsitate grafiken arazoa sarri izaten da zabalera. Hori ere aurrez erabagi deikegu:
+
+## Ardatzetako heina
+
+```{r}
+plot(density(1:8, adjust = 2), 
+     xlim = c(1,8),
+     ylim = c(0, 0.12))
+```
+
+# Ariketa
+
+Birsortu zure jaietako data frame ha eta irudikatu aldagaiak banaka. Gero aztertu zein irudikatu ahal direan erlazioan eta bilatu alkarregaz aldagaiak binaka irudikatzeko moduak
+
+```{r}
+
+
+```
