@@ -40,15 +40,15 @@ Horretarako, oinarrizko pare bat helburutara aileagaten ahalegindu behar dogu:
 
 ## Aztertu
 
-Rn ditugun objektuak aztertzen jakin  behar da, haien egitura zelakoa den eragiketa batzuk edo beste batzuk egin ahal izango ditugulako.
+Rn ditugun objektuak aztertzen jakin  behar da, euren egitura zelakoa dan eragiketa batzuk edo beste batzuk egin ahal izango doguzalako.
 
 + Objektuaren egitura `str()`
-+ Objektu mota zein den aztertu `class()`
++ Objektu mota zein dan aztertu `class()`
 + Objektuen atributuak `attributes()`
 
 ## Derrigortu
 
-Era bateko objektuei eragin ahal zaie beste era batekoak izatea, hobeto lantzeko.
+Era bateko objektuei eragin ahal jake beste era batekoak izatea, hobeto lantzeko.
 
 + `unclass()`, `unname()`... 
 +  `as.factor()`, `as.data.frame()`...
@@ -63,6 +63,8 @@ c(-1, 0, 1) / 0
 
 
 ## Bibliografiea-ta
+
+Cruz, J., & Moreno, D. (2017). *Nebulae-co/saber* [R]. nebulae-co. https://github.com/nebulae-co/saber (Original work published 2015)
 
 Mendoza Vega, J. B. (2018). *R para principiantes*. Bosco Mendoza. https://rprincipiantes.boscomendoza.com/
 

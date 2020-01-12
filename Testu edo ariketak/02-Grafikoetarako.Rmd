@@ -240,6 +240,34 @@ plot(density(1:8, adjust = 2),
 Birsortu zure jaietako data frame ha eta irudikatu aldagaiak banaka. Gero aztertu zein irudikatu ahal direan erlazioan eta bilatu alkarregaz aldagaiak binaka irudikatzeko moduak
 
 ```{r}
-
+## Egin eta azaldu
 
 ```
+
+---
+
+# Bibliografiea
+
+Chang, W. (2018). *R graphics cookbook: Practical recipes for visualizing data* (Second edition). O’Reilly.
+
+> `ggplot` sisteman oinarritua gehiena
+
+Correa, J. C., & González, N. (2002). *Gráficos Estadísticos con R*. Universidad Nacional. https://cran.r-project.org/doc/contrib/grafi3.pdf
+
+> Hemen ikusten dugun sisteman oinarritua (`graphics`)
+
+Hadley, W. (2016). *Ggplot2*. Springer Science+Business Media, LLC.
+
+> `ggplot` sisteman oinarritua
+
+Sarkar, D. (2008). *Lattice: Multivariate data visualization with R*. Springer.
+
+> `lattice` sisteman oinarritua
+
+Teutonico, D. (2015). *ggplot2 essentials: Explore the full range of ggplot2 plotting capabilities to create meaningful and spectacular graphs*. Packt Publishing.
+
+> `ggplot` sisteman oinarritua
+
+Venables, W. N., & Smith, D. M. (2002). *An introduction to R: A programming environment for data analysis and graphics. version 1.4.1*. Network Theory. https://cran.r-project.org/doc/manuals/R-intro.pdf
+
+> Berez, 2019ko bertsinoa da estekakoa. Batez be oinarrizko instalazinotik begituta. Oso xehetuta dana; akaso, xehegi eta datu lar. 63. orrian hasten da grafiken ganekoa.
