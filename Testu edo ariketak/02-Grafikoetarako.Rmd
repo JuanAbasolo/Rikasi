@@ -244,6 +244,8 @@ Birsortu zure jaietako data frame ha eta irudikatu aldagaiak banaka. Gero aztert
 
 ```
 
++ Konpilatu amaitutakoan, [hemen](https://juanabasolo.github.io/Rikasi/02-Grafikoetarako.nb.html) nirea
+
 ---
 
 # Bibliografiea
