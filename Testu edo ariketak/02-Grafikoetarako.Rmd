@@ -253,6 +253,8 @@ df.juanena <- structure(list(olentzerori.idatzi = c(TRUE, TRUE, TRUE, FALSE),
                                                        .Label = c("gitxi", "nahiko", "asko"), 
                                                        class = c("ordered", "factor"))), 
                         class = "data.frame", row.names = c("nagusia", "txikia", "ama", "aita"))
+
+knitr::kable(df.juanena)
 ```
 
 
