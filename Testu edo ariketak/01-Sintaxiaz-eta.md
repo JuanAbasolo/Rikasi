@@ -100,16 +100,16 @@ Batez bestekoa kalkulatzeko funtzino bat sortu behar dogula pentsauta, hona bide
 ```
 ## Gure funtzino bat
 
-f.batezbeste <- function(zenbakizko.bektorea)sum(zenbakizko.bektorea)/length(zenbakizko.bektorea)
+f.batazbeste <- function(zenbakizko.bektorea)sum(zenbakizko.bektorea)/length(zenbakizko.bektorea)
 
-f.batezbeste(danok.vector)
+f.batazbeste(danok.vector)
 ```
 Goian ikusten da zelan sortzen dan oso funtzino sinplea; baina prozesu bat baino gehiago edota kalkulu handiagoak behar diranean (kasu gehienetan), beste notazino bat erabilten da.
 
 ```
 ## Gure lehengo funtzinoa, beste era batera idatzita
 
-f.batezbeste <- function(x){
+f.batazbeste <- function(x){
   sum(x)/length(x)
   }
 ```
@@ -138,7 +138,7 @@ Gure lehengo funtzino hori hazi arazo ahal dogu goiko batzuk hartuta, bataz best
 ```
 ## Bigarren funtzioa. Batez bestekoa, baina minimoa eta maximoa kenduta
 
-f.batezbesteko.inausia <- function(x){
+f.batazbesteko.inausia <- function(x){
   (sum(x) -max(x) -min(x))/(length(x)-2)
 }
 ```
