@@ -1,0 +1,35 @@
+# Azalpena:
+# Sartu behar dozu @R_uji_bot -n.
+# hor idatzi bihar dozu:
+
+/start
+
+# eta enterreri emon.
+
+# Erantzungo dotsu prest dagoala, eta orduan aginduak bialdu bihar dotsazuz:
+
+# Holan agintzen jako "lehenengoa" izeneko gauza bat sortzeko, zure lehenengo galderen erantzunakin
+# egin dot hau, bakotxari bere ixena ipini eta egokitu zenbakijak
+
+lehenengoa <- data.frame(
+            ez = c(2, 0 ,14, 17), 
+            bai = c(21, 21, 10, 6),
+            row.names = c('A taldea', 'B taldea', 'C taldea', 'Dtaldea'))
+
+# Honegaz eskatzen dotsazu lehenengoa izeneko gauzian ji karratu banaketi atarateko
+chisq.test( lehenengoa)
+# Esangotsu zein dan chicarratua (38.674), zenbat askatasun gradu daukozan (3) eta p-balioa(2.035x10 ber -8, hau da, p-balioa= 0,00000002035)
+
+# Honek sortzen dau irudi bat erakusten dabena banaketa horretan zein banaketik dauken p-balio adierazgarrixa
+# Gorri agertzen bada, ausaz ixango litzatekeena baino gitxiago. Eta azulez ixan bihar leukena baino gehixo
+mosaicplot( lehenengoa,
+            shade = TRUE,
+            main = 'Lehenengo galderaren erantzunak')
+
+# Honek sortzen dau zuk erabili ixan dozuzan barra-diagramen modukuak
+barplot(as.matrix(t(lehenengoa)), legend = T)
+
+# Honegaz koloriak:
+barplot(as.matrix(t(lehenengoa)), legend = T, col = c('red', 'blue'))
+
+# PARAIOA OSO INPORTANTIA: koma baten edo komilla baten huts egitik eragingo dau ez ibilti
